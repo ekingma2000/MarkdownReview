@@ -20,10 +20,10 @@ Not a lot - you'll need git installed locally, as well as a preprocessor like [S
 MIT
 
 ## Authors
-1. TVR - Front-end dev
+1. TVR - front-end dev
 2. JB - web designer
 3. JO - graphic designer 
 4. JB - 3D / Motion
-5. RH - Photography
+5. RH - photography
 
 
